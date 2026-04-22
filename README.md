@@ -4,7 +4,6 @@ Hi, I’m André
 - 🧑‍💻 Refining coding skills atm;
 - ❤️ I'm passionate about sports, especially rowing 🚣.
 
-<!---
-Kregsen/Kregsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experience:
+- I worked at DORA (Dental Oral Rehabilitation Approach) as an intern. It is a startup for dental medics;
+- I work now at Tech Mahindra as Help Desk Techninician.
